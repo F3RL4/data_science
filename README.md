@@ -6,7 +6,9 @@ RGM: 29123780
 Curso: Bacharelado em Ciências da Computação
 Disciplina: Visualização de Dados
 Link do dataset utilizado: https://www.kaggle.com/datasets/gregorut/videogamesales 
+
 Link do projeto no github: https://github.com/F3RL4/data_science 
+
 Link apresentação: https://youtu.be/uJvwRUHw2A4
 
 
