@@ -7,7 +7,7 @@ Curso: Bacharelado em Ciências da Computação
 Disciplina: Visualização de Dados
 Link do dataset utilizado: https://www.kaggle.com/datasets/gregorut/videogamesales 
 Link do projeto no github: https://github.com/F3RL4/data_science 
-Link apresentação: www.youtube.com
+Link apresentação: https://youtu.be/uJvwRUHw2A4
 
 
  O projeto da disciplina consiste em apresentar uma implementação, em Python, da visualização de informações presentes em um dataset usando ao menos três técnicas estudadas na disciplina. 
